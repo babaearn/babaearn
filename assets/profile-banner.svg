@@ -1,0 +1,75 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="54" y1="38" x2="1188" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.5" stop-color="#0E2238"/>
+      <stop offset="1" stop-color="#123B38"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="160" y1="86" x2="1090" y2="334" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00C2A8"/>
+      <stop offset="1" stop-color="#2CA4FF"/>
+    </linearGradient>
+    <linearGradient id="line" x1="236" y1="267" x2="1097" y2="267" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1AE5C9" stop-opacity="0"/>
+      <stop offset="0.48" stop-color="#1AE5C9"/>
+      <stop offset="1" stop-color="#5BB9FF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur" x="0" y="0" width="1280" height="420" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+
+  <g opacity="0.5" filter="url(#blur)">
+    <circle cx="176" cy="88" r="82" fill="#16D7B2"/>
+    <circle cx="1098" cy="334" r="96" fill="#2E90FF"/>
+  </g>
+
+  <rect x="54" y="44" width="1172" height="332" rx="24" fill="white" fill-opacity="0.03" stroke="white" stroke-opacity="0.12"/>
+
+  <path d="M88 306C179 232 237 219 317 236C393 252 437 295 514 300C575 304 640 269 700 252C792 224 848 250 911 273C994 304 1080 300 1188 184" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M86 334H1194" stroke="url(#line)" stroke-width="2"/>
+
+  <g opacity="0.9">
+    <rect x="92" y="90" width="170" height="36" rx="18" fill="#0E2C34" stroke="#1AE5C9" stroke-opacity="0.34"/>
+    <text x="177" y="113" fill="#A7FFF1" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle">EXECUTION TRADER</text>
+  </g>
+
+  <g opacity="0.9">
+    <rect x="276" y="90" width="248" height="36" rx="18" fill="#0E2437" stroke="#63B3FF" stroke-opacity="0.34"/>
+    <text x="400" y="113" fill="#D7EEFF" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle">SYSTEMATIC STRATEGY BUILDER</text>
+  </g>
+
+  <text x="92" y="182" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">Rohith VH</text>
+  <text x="92" y="228" fill="#D8E7F7" font-family="Arial, Helvetica, sans-serif" font-size="26">Trading Automation • Risk Systems • Market Intelligence</text>
+
+  <text x="92" y="275" fill="#9FBDD8" font-family="Arial, Helvetica, sans-serif" font-size="20">Building execution-focused bots, analytics systems, and signal workflows for live markets.</text>
+
+  <g>
+    <rect x="92" y="322" width="148" height="34" rx="17" fill="#0F2F2B"/>
+    <text x="166" y="344" fill="#B8FFF5" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle">$5M+ Volume</text>
+  </g>
+  <g>
+    <rect x="252" y="322" width="162" height="34" rx="17" fill="#0E2437"/>
+    <text x="333" y="344" fill="#DDF1FF" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle">71.6% Win Rate</text>
+  </g>
+  <g>
+    <rect x="426" y="322" width="160" height="34" rx="17" fill="#162533"/>
+    <text x="506" y="344" fill="#E5EDF8" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle">$200K+ Managed</text>
+  </g>
+
+  <g opacity="0.92">
+    <rect x="854" y="96" width="298" height="176" rx="20" fill="white" fill-opacity="0.05" stroke="white" stroke-opacity="0.14"/>
+    <text x="884" y="136" fill="#A3FFF1" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Current Edge</text>
+    <text x="884" y="170" fill="#E4EFFC" font-family="Arial, Helvetica, sans-serif" font-size="18">• Telegram trading systems</text>
+    <text x="884" y="200" fill="#E4EFFC" font-family="Arial, Helvetica, sans-serif" font-size="18">• Funding-rate automation</text>
+    <text x="884" y="230" fill="#E4EFFC" font-family="Arial, Helvetica, sans-serif" font-size="18">• Risk and TP/SL tooling</text>
+    <text x="884" y="260" fill="#E4EFFC" font-family="Arial, Helvetica, sans-serif" font-size="18">• AI-assisted market workflows</text>
+  </g>
+
+  <g opacity="0.82">
+    <rect x="942" y="292" width="210" height="44" rx="22" fill="#0D1D2B" stroke="#395878"/>
+    <text x="1047" y="320" fill="#DCEBFA" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle">github.com/babaearn</text>
+  </g>
+</svg>
