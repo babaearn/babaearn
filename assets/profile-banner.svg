@@ -1,29 +1,11 @@
-<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1280" height="360" rx="24" fill="#F7F7F5"/>
-  <rect x="36" y="36" width="1208" height="288" rx="20" fill="#FBFBFA" stroke="#E7E5E4"/>
-
-  <rect x="78" y="78" width="124" height="32" rx="16" fill="#F1F1EF" stroke="#E3E2DF"/>
-  <text x="140" y="99" text-anchor="middle" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="15">Execution</text>
-
-  <rect x="214" y="78" width="152" height="32" rx="16" fill="#F1F1EF" stroke="#E3E2DF"/>
-  <text x="290" y="99" text-anchor="middle" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="15">Systematic Trading</text>
-
-  <rect x="378" y="78" width="134" height="32" rx="16" fill="#F1F1EF" stroke="#E3E2DF"/>
-  <text x="445" y="99" text-anchor="middle" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="15">Automation</text>
-
-  <text x="78" y="164" fill="#18181B" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">Rohith VH</text>
-  <text x="78" y="210" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="24">Execution Trader • Strategy Developer • Python Builder</text>
-  <text x="78" y="252" fill="#71717A" font-family="Arial, Helvetica, sans-serif" font-size="20">Building simple, execution-focused systems for trading, risk, and market intelligence.</text>
-
-  <line x1="78" y1="286.5" x2="1202" y2="286.5" stroke="#E7E5E4"/>
-
-  <text x="78" y="314" fill="#71717A" font-family="Arial, Helvetica, sans-serif" font-size="17">71.6% win rate</text>
-  <text x="258" y="314" fill="#71717A" font-family="Arial, Helvetica, sans-serif" font-size="17">$5M+ volume driven</text>
-  <text x="498" y="314" fill="#71717A" font-family="Arial, Helvetica, sans-serif" font-size="17">$200K+ capital exposure</text>
-
-  <rect x="932" y="86" width="242" height="126" rx="18" fill="#FAFAF9" stroke="#E7E5E4"/>
-  <text x="962" y="118" fill="#18181B" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Current focus</text>
-  <text x="962" y="150" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="17">Telegram trading systems</text>
-  <text x="962" y="176" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="17">Risk tooling and TP/SL logic</text>
-  <text x="962" y="202" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="17">AI-assisted market workflows</text>
+<svg width="1280" height="260" viewBox="0 0 1280 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="260" rx="20" fill="#FAFAF9"/>
+  <rect x="28" y="28" width="1224" height="204" rx="18" fill="#FFFFFF" stroke="#E7E5E4"/>
+  <text x="72" y="104" fill="#18181B" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700">Rohith VH</text>
+  <text x="72" y="144" fill="#52525B" font-family="Arial, Helvetica, sans-serif" font-size="22">Execution Trader • Systematic Strategy Developer • Python Builder</text>
+  <text x="72" y="184" fill="#71717A" font-family="Arial, Helvetica, sans-serif" font-size="18">Trading systems, risk tooling, and market intelligence for live execution.</text>
+  <line x1="72" y1="204.5" x2="1208" y2="204.5" stroke="#E7E5E4"/>
+  <text x="72" y="224" fill="#71717A" font-family="Arial, Helvetica, sans-serif" font-size="16">71.6% win rate</text>
+  <text x="228" y="224" fill="#71717A" font-family="Arial, Helvetica, sans-serif" font-size="16">$5M+ trading volume</text>
+  <text x="440" y="224" fill="#71717A" font-family="Arial, Helvetica, sans-serif" font-size="16">$200K+ capital exposure</text>
 </svg>
