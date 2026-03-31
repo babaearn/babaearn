@@ -15,16 +15,16 @@
 </p>
 
 <p align="center">
-  I build execution-focused trading systems, risk tooling, and automation for live markets.
+  I build product-driven trading systems, AI workflows, and execution tooling for live markets.
 </p>
 
 ---
 
 ## About
 
-I work at the intersection of trading, automation, and product execution. My background combines live market participation with Python systems for signal generation, risk management, reporting, and community operations.
+I currently work at Mudrex, where I operate across trading, product execution, growth workflows, and automation. My background combines live market participation with Python systems for signal generation, risk management, reporting, and community operations.
 
-My experience spans crypto futures, spot, leveraged products, funding-rate strategies, discretionary execution, and systematic research.
+My experience spans crypto futures, spot, leveraged products, funding-rate strategies, discretionary execution, systematic research, and AI-assisted product workflows using tools such as Codex, Claude Code, and agentic automation systems.
 
 ## Performance At A Glance
 
@@ -38,13 +38,16 @@ My experience spans crypto futures, spot, leveraged products, funding-rate strat
 ## Featured Work
 
 ### Quantra-950 Intelligence Bot
-AI-powered derivatives analysis bot built for live market data, sentiment workflows, and execution-focused insights.
+AI-powered derivatives analysis bot built for live market data, sentiment workflows, and execution-focused product insights.
 
 ### Funding Rate Sniper Bot
 Automation around perpetual funding events with timed entries, forced exits, and PnL-aware reporting.
 
 ### Bybit Risk Calculator Bot
 Telegram-based TP/SL and position sizing tool for faster, cleaner execution decisions.
+
+### Product and AI Workflow Systems
+Internal-style workflows for research, reporting, agentic automation, and trading operations using Codex, Claude Code, and modern AI tooling.
 
 ## Stack
 
@@ -55,7 +58,10 @@ Telegram-based TP/SL and position sizing tool for faster, cleaner execution deci
 - Telegram bots
 - PostgreSQL
 - TradingView
+- Antigravity
+- Codex
 - Gemini
+- Claude Code
 - Claude
 
 ## Connect
