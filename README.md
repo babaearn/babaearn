@@ -3,12 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/babaearn">
-    <img src="https://komarev.com/ghpvc/?username=babaearn&label=profile%20views&color=8c8c8c&style=flat-square" alt="profile views" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://www.rohithvh.info">website</a> ·
   <a href="https://www.linkedin.com/in/rohith-vh95">linkedin</a> ·
   <a href="https://t.me/babaearn23">telegram</a>
